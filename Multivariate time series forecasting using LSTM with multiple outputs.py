@@ -70,6 +70,7 @@ df_for_training_High_scaled=df_for_training_scaled[:,[1]]
 df_for_training_Low_scaled=df_for_training_scaled[:,[2]]
 df_for_training_Close_scaled=df_for_training_scaled[:,[3]]
 df_for_training_Adj_Close_scaled=df_for_training_scaled[:,[4]]
+df_for_training_Volume_scaled=df_for_training_scaled[:,[5]]
 
 #_-----------------------------------------------
 #Empty lists to be populated using formatted training data
